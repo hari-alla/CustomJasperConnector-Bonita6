@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<implementation:connectorImplementation xmlns:implementation="http://www.bonitasoft.org/ns/connector/implementation/6.0">
+  <implementationId>custom-jasper-impl</implementationId>
+  <implementationVersion>1.1.0</implementationVersion>
+  <definitionId>jasper</definitionId>
+  <definitionVersion>1.1.0</definitionVersion>
+  <implementationClassname>org.bonitasoft.connector.CustomJasperImpl</implementationClassname>
+  <description>Create a Jasper Report (v.5.1)</description>
+  <jarDependencies/>
+</implementation:connectorImplementation>
